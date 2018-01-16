@@ -1,6 +1,6 @@
        use AI::NeuralNet::SOM;
 
-               # Create a new self-organizing map.
+               # Create a new self-organizing map
                $som = AI::NeuralNet::SOM->new();
 
                # Create a data set to initialize and train.
